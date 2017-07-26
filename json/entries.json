@@ -1,34 +1,34 @@
 {
+    "Domicilios": [
+        {
+            "API": "Mensajeros Urbanos",
+            "Auth": "apiKey",
+            "Description": "Envios por mensajeros urbanos",
+            "HTTPS": true,
+            "Link": "http://murbanos.co/la-compa%C3%B1ia/api-urbanos"
+        }
+    ],
     "Pagos": [
         {
             "API": "PayU",
-            "Description": "Pagos en linea",
             "Auth": "apiKey",
+            "Description": "Pagos en linea",
             "HTTPS": true,
             "Link": "http://developers.payulatam.com/es/api/"
         },
         {
             "API": "ePayco",
-            "Description": "Pagos en linea",
             "Auth": "apiKey",
+            "Description": "Pagos en linea",
             "HTTPS": true,
             "Link": "https://epayco.co/developers.php"
-        }
-    ],
-    "Domicilios": [
-        {
-            "API": "Mensajeros Urbanos",
-            "Description": "Envios por mensajeros urbanos",
-            "Auth": "apiKey",
-            "HTTPS": true,
-            "Link": "http://murbanos.co/la-compa%C3%B1ia/api-urbanos"
         }
     ],
     "eCommerce": [
         {
             "API": "Mercadolibre",
-            "Description": "Venta en linea",
             "Auth": "apiKey",
+            "Description": "Venta en linea",
             "HTTPS": true,
             "Link": "http://developers.mercadolibre.com/api-docs/"
         }
