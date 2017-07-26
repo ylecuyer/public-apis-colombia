@@ -31,6 +31,13 @@
             "Description": "Transporte privado",
             "HTTPS": true,
             "Link": "https://developer.uber.com/"
+        },
+        {
+            "API": "Cabify",
+            "Auth": "apiKey",
+            "Description": "Transporte privado",
+            "HTTPS": true,
+            "Link": "http://developers.cabify.com/"
         }
     ],
     "eCommerce": [
