@@ -13,6 +13,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Pagos](#pagos)
 * [Domicilios](#domicilios)
 * [eCommerce](#ecommerce)
+* [Transporte](#transporte)
 
 ### Pagos
 API | Description | Auth | HTTPS | Link |
@@ -30,3 +31,8 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Mercadolibre | Venta en linea | apiKey | Yes | [Go!](http://developers.mercadolibre.com/api-docs/) |
+
+### Transporte
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Uber | Transporte privado | apiKey | Yes | [Go!](https://developer.uber.com/) |
