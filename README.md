@@ -36,3 +36,4 @@ API | Description | Auth | HTTPS | Link |
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Uber | Transporte privado | apiKey | Yes | [Go!](https://developer.uber.com/) |
+| Cabify | Transporte privado | apiKey | Yes | [Go!](http://developers.cabify.com/) |
