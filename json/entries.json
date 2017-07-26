@@ -24,6 +24,15 @@
             "Link": "https://epayco.co/developers.php"
         }
     ],
+    "Transporte": [
+        {
+            "API": "Uber",
+            "Auth": "apiKey",
+            "Description": "Transporte privado",
+            "HTTPS": true,
+            "Link": "https://developer.uber.com/"
+        }
+    ],
     "eCommerce": [
         {
             "API": "Mercadolibre",
