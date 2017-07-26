@@ -45,6 +45,13 @@
             "Description": "Transporte privado",
             "HTTPS": true,
             "Link": "http://developers.cabify.com/"
+        },
+        {
+            "API": "SITP",
+            "Auth": null,
+            "Description": "Rutas SITP (No oficial)",
+            "HTTPS": true,
+            "Link": "https://github.com/zorrodg/sitp-api"
         }
     ],
     "eCommerce": [
