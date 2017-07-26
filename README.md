@@ -38,3 +38,4 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Uber | Transporte privado | apiKey | Yes | [Go!](https://developer.uber.com/) |
 | Cabify | Transporte privado | apiKey | Yes | [Go!](http://developers.cabify.com/) |
+| SITP | (No oficial) rutas de SITP | No | Yes | [Go!](https://github.com/zorrodg/sitp-api) |
