@@ -8,13 +8,20 @@
             "Link": "https://www.elibom.com/developers"
         }
     ],
-    "Domicilios": [
+    "Envios": [
         {
             "API": "Mensajeros Urbanos",
             "Auth": "apiKey",
             "Description": "Envios por mensajeros urbanos",
             "HTTPS": true,
             "Link": "http://murbanos.co/la-compa%C3%B1ia/api-urbanos"
+        },
+        {
+            "API": "Liftit",
+            "Auth": "apiKey",
+            "Description": "Transporte de carga por demanda",
+            "HTTPS": true,
+            "Link": "http://docs.api.liftit.co/"
         }
     ],
     "Pagos": [
