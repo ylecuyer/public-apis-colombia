@@ -42,6 +42,7 @@ API | Description | Auth | HTTPS | Link |
 | Uber | Transporte privado | apiKey | Yes | [Go!](https://developer.uber.com/) |
 | Cabify | Transporte privado | apiKey | Yes | [Go!](http://developers.cabify.com/) |
 | SITP | Rutas SITP (No oficial) | No | Yes | [Go!](https://github.com/zorrodg/sitp-api) |
+| MIO | Sistema de Transporte Integrado MIO (No oficial) | No | Yes | [Go!](http://docs.mioservice.apiary.io/#) |
 
 ### Comunicacion
 API | Description | Auth | HTTPS | Link |
