@@ -1,4 +1,13 @@
 {
+    "Comunicacion": [
+        {
+            "API": "Elibom",
+            "Auth": "apiKey",
+            "Description": "Envio de SMS",
+            "HTTPS": true,
+            "Link": "https://www.elibom.com/developers"
+        }
+    ],
     "Domicilios": [
         {
             "API": "Mensajeros Urbanos",
