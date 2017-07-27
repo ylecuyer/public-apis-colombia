@@ -75,6 +75,13 @@
             "Description": "Rutas SITP (No oficial)",
             "HTTPS": true,
             "Link": "https://github.com/zorrodg/sitp-api"
+        },
+        {
+            "API": "MIO",
+            "Auth": null,
+            "Description": "Sistema de Transporte Integrado MIO (No oficial)",
+            "HTTPS": true,
+            "Link": "http://docs.mioservice.apiary.io/#"
         }
     ],
     "eCommerce": [
