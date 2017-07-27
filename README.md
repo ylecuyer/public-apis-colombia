@@ -14,6 +14,7 @@ Please note a passing build status indicates all listed APIs are available since
 * [Domicilios](#domicilios)
 * [eCommerce](#ecommerce)
 * [Transporte](#transporte)
+* [Comunicacion](#comunicacion)
 
 ### Pagos
 API | Description | Auth | HTTPS | Link |
@@ -40,3 +41,8 @@ API | Description | Auth | HTTPS | Link |
 | Uber | Transporte privado | apiKey | Yes | [Go!](https://developer.uber.com/) |
 | Cabify | Transporte privado | apiKey | Yes | [Go!](http://developers.cabify.com/) |
 | SITP | Rutas SITP (No oficial) | No | Yes | [Go!](https://github.com/zorrodg/sitp-api) |
+
+### Comunicacion
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Elibom | Envio de SMS | apiKey | Yes | [Go!](https://www.elibom.com/developers) |
