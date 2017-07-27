@@ -29,6 +29,13 @@
             "Description": "Pagos en linea",
             "HTTPS": true,
             "Link": "https://www.mercadopago.com.ar/developers/es/api-docs/"
+        },
+        {
+            "API": "Tpaga",
+            "Auth": "apiKey",
+            "Description": "Pagos en linea",
+            "HTTPS": true,
+            "Link": "https://tpaga.co/"
         }
     ],
     "Transporte": [
