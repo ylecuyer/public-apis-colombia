@@ -11,7 +11,7 @@ Please note a passing build status indicates all listed APIs are available since
 ## Index
 
 * [Pagos](#pagos)
-* [Domicilios](#domicilios)
+* [Envios](#envios)
 * [eCommerce](#ecommerce)
 * [Transporte](#transporte)
 * [Comunicacion](#comunicacion)
@@ -25,10 +25,11 @@ API | Description | Auth | HTTPS | Link |
 | Tpaga | Pagos en linea | apiKey | Yes | [Go!](https://tpaga.co/) |
 
 
-### Domicilios
+### Envios
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Mensajeros Urbanos | Envios por mensajeros urbanos | apiKey | Yes | [Go!](http://murbanos.co/la-compa%C3%B1ia/api-urbanos) |
+| Liftit | Transporte de carga por demanda | apiKey | Yes | [Go!](http://docs.api.liftit.co/) |
 
 ### eCommerce
 API | Description | Auth | HTTPS | Link |
