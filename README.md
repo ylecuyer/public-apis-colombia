@@ -30,6 +30,7 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Mensajeros Urbanos | Envios por mensajeros urbanos | apiKey | Yes | [Go!](http://murbanos.co/la-compa%C3%B1ia/api-urbanos) |
 | Liftit | Transporte de carga por demanda | apiKey | Yes | [Go!](http://docs.api.liftit.co/) |
+| Rapigo | Mensajeria express | apiKey | Yes | [Go!](http://docs.rapigo.apiary.io/#introduction/ambientes) |
 
 ### eCommerce
 API | Description | Auth | HTTPS | Link |
