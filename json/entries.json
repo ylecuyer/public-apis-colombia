@@ -29,6 +29,13 @@
             "Description": "Mensajeria express",
             "HTTPS": true,
             "Link": "http://docs.rapigo.apiary.io/#introduction/ambientes"
+        },
+        {
+            "API": "Peajes",
+            "Auth": "apiKey",
+            "Description": "Conocer los peajes y sus precios dentro Colombia",
+            "HTTPS": true,
+            "Link": "http://docs.peajes.apiary.io/#"
         }
     ],
     "Pagos": [
