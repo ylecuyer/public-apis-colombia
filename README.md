@@ -31,7 +31,7 @@ API | Description | Auth | HTTPS | Link |
 | Mensajeros Urbanos | Envios por mensajeros urbanos | apiKey | Yes | [Go!](http://murbanos.co/la-compa%C3%B1ia/api-urbanos) |
 | Liftit | Transporte de carga por demanda | apiKey | Yes | [Go!](http://docs.api.liftit.co/) |
 | Rapigo | Mensajeria express | apiKey | Yes | [Go!](http://docs.rapigo.apiary.io/#introduction/ambientes) |
-| Peajes | Conocer los peajes y sus precios dentro Colombia | apiKey | yes | [Go!](http://docs.peajes.apiary.io/#) |
+| Peajes | Conocer los peajes y sus precios dentro Colombia | apiKey | Yes | [Go!](http://docs.peajes.apiary.io/#) |
 
 ### eCommerce
 API | Description | Auth | HTTPS | Link |
