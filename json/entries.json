@@ -64,8 +64,8 @@
             "API": "Tpaga",
             "Auth": "apiKey",
             "Description": "Pagos en linea",
-            "HTTPS": true,
-            "Link": "https://tpaga.co/"
+            "HTTPS": false,
+            "Link": "http://tpaga.co/"
         }
     ],
     "Transporte": [
