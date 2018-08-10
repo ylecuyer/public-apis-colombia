@@ -1,4 +1,13 @@
 {
+    "Bancos": [
+        {
+            "API": "Bancolombia",
+            "Auth": "apiKey",
+            "Description": "Servicios de banco",
+            "HTTPS": true,
+            "Link": "https://developer.bancolombia.com/en/product"
+        }
+    ],
     "Comunicacion": [
         {
             "API": "Elibom",
