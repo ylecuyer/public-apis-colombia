@@ -55,4 +55,4 @@ API | Description | Auth | HTTPS | Link |
 ### Bancos
 API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
-| BancoColombia | Servicios de banco | apiKey | Yes | [Go!](https://developer.bancolombia.com/en/product) |
+| Bancolombia | Servicios de banco | apiKey | Yes | [Go!](https://developer.bancolombia.com/en/product) |
